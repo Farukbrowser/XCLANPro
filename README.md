@@ -1,38 +1,36 @@
-# XCLANPro - En desarrollo
+# XCLANPro - Under Developing
 ![XCLANPro_home2](https://user-images.githubusercontent.com/67137156/170579752-e92115d1-9c53-457b-93ea-1539a5d36044.png)
 ![XCLANPro_conf](https://user-images.githubusercontent.com/67137156/170580003-3cc3b607-fe0f-4f3c-bf86-a11b71956def.png)
 
-## info sobre el script :point_right: [XCLANPro](https://github.com/Farukbrowser/XCLANPro/blob/main/info.md)
+## info about the script :point_right: [XCLANPro](https://github.com/Farukbrowser/XCLANPro/blob/main/info.md)
 
-## Bot generador de key en telegram :point_right: [@XCLANPro_bot](https://t.me/XCLANPro_bot)
+## Telegram key generator bot :point_right: [@XCLANPro_bot](https://t.me/XCLANPro_bot)
 
-## Instalar XCLANPro
+## Install XCLANPro
 
 `rm -rf install.sh* && wget https://raw.githubusercontent.com/Farukbrowser/XCLANPro/main/install.sh && chmod 775 install.sh* && ./install.sh* --start`
 
-## Actualizar XCLANPro
+## Update XCLANPro
 
 `rm -rf install.sh* && wget https://raw.githubusercontent.com/Farukbrowser/XCLANPro/main/install.sh && chmod +x install.sh* && ./install.sh* --update`
 
-## ACTUALIZACION
+## UPDATE
 
 2023-06-03
-4)- fix usuarios sin internet (beta)
+4)- fix users without internet (beta)
 
  2023-05-10
-1)- protocolo psiphon agregado
-
+1)- added psiphon protocol
  2023-04-25
  
-1)- Protocolo udp-custom agregado, apps (HTTPCustom)
+1)- Added udp-custom protocol, apps(HTTPCustom)
 
  2023-04-07
  
-1)- UDPserver, opcion de seleccion de ip deteccion de ip nat y publica
-
+1)- UDPserver, ip selection option nat and public ip detection
 2023-03-31
  
-1)- fix user SSH/TOKEN/HWID, correcion al renovar no da datos.
+1)- fix user SSH/TOKEN/HWID, correction when renewing does not give data.
 
 2023-01-06
 
