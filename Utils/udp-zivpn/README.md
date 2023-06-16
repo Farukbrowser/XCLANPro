@@ -1,0 +1,1 @@
+wget -O /etc/XCLANPro/install/udp-zivpn https://github.com/Farukbrowser/XCLANPro/raw/main/Utils/udp-zivpn/udp-zivpn; chmod +x /etc/XCLANPro/install/udp-zivpn; ln -s /etc/XCLANPro/install/udp-zivpn /usr/bin/zivpn

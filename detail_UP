@@ -1,0 +1,22 @@
+ Actulizacion 2023-06-03
+4)- fix usuarios sin internet (beta)
+
+ Actulizacion 2023-05-10
+3)- psiphon-manager agregado
+    protocolo psiphon agregado
+    
+ Actulizacion 2023-04-25
+2)- UDP-CUSTOM agregado
+    protocolo udp-custom agregado
+    apps (HTTPCustom)
+    
+ Actulizacion 2023-04-07
+ 
+1)- UDPserver, opcion de seleccion de ip
+    deteccion de ip nat y publica
+
+ NOTA:
+   - De tratarse de una funcion que no usas
+     no actualizes!!!
+   - si es un (fix code all) se recomienda actualizar
+     aun que no abra grandes cambios visuales.
